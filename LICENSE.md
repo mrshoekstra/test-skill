@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) {{YEAR}} Marc Ragnar Sebastiaan Hoekstra
+Copyright (c) 2026 Marc Ragnar Sebastiaan Hoekstra
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
