@@ -1,4 +1,4 @@
-# 🧪 AI Agent `/test` Skill <picture><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1"></picture>
+# 🧪 `/test` Skill <sub><sup>for AI & LLMs</sup></sub> <picture><img alt="Markdown" src="https://img.shields.io/badge/Markdown-083fa1"></picture>
 
 <!-- DESCRIPTION START -->
 An automated AI agent skill operating strictly within the quality assurance domain, designed to meticulously create, incrementally update, and execute unit tests for your codebase. The primary objective is to guarantee that the target source file is comprehensively covered and that the resulting test suite inevitably runs green.
